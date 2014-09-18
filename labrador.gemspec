@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = 'labrador'
-  gem.version = "0.0.1"
+  gem.version = "0.0.2"
 
   gem.summary     = "Sniffs out labs and other research institutions bassed on emails and domains. Also a loyal companion."
   gem.description = ""
