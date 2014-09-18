@@ -44,6 +44,6 @@ PLATFORMS
 
 DEPENDENCIES
   labrador!
-  pry
+  pry (~> 0.9)
   rake (~> 10.3)
   shoulda (~> 3.5)
