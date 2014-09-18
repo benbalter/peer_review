@@ -10,7 +10,7 @@ class Labrador < NaughtyOrNice
 
     # Returns the absolute path to the domain list
     def list_path
-      File.join(File.dirname(__FILE__), "../config/domains.txt")
+      File.expand_path("../config/domains.txt", File.dirname(__FILE__))
     end
   end
 

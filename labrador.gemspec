@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.homepage = 'http://github.com/benbalter/naughty_or_nice'
   gem.license  = "MIT"
 
-  gem.files = Dir['Rakefile', '{bin,lib}/**/*', 'README*', 'LICENSE*']
+  gem.files = Dir['Rakefile', '{bin,lib,config}/**/*', 'README*', 'LICENSE*']
 
   gem.add_dependency( "naughty_or_nice", '~> 0.0.2')
 
