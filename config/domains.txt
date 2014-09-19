@@ -7,15 +7,29 @@ lanl.gov
 lbl.gov
 llnl.gov
 nist.gov
-nrel.gov
 ornl.gov
 pnnl.gov
+pppl.gov
 sandia.gov
+srnl.doe.gov
+srs.gov
+ameslab.gov
 
 //US Research Agencies
 jpl.nasa.gov
 nifa.usda.gov
 nih.gov
+nrel.gov
+
+//FFRDCs
+mitre.org
+cna.org
+ll.mit.edu
+naic.edu
+ncar.ucar.edu
+noao.edu
+slac.stanford.edu
+jlab.org
 
 // CSIRO (Australia)
 csiro.au
