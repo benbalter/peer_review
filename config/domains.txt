@@ -17,6 +17,9 @@ jpl.nasa.gov
 nifa.usda.gov
 nih.gov
 
+//FFRDCs
+mitre.org
+
 // CSIRO (Australia)
 csiro.au
 
