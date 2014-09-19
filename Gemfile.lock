@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    labrador (0.0.1)
+    peer_review (0.0.2)
       naughty_or_nice (~> 0.0.2)
 
 GEM
@@ -43,7 +43,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  labrador!
+  peer_review!
   pry (~> 0.9)
   rake (~> 10.3)
   shoulda (~> 3.5)

@@ -1,13 +1,13 @@
 Gem::Specification.new do |gem|
-  gem.name    = 'labrador'
+  gem.name    = 'peer_review'
   gem.version = "0.0.2"
 
-  gem.summary     = "Sniffs out labs and other research institutions bassed on emails and domains. Also a loyal companion."
-  gem.description = ""
+  gem.summary     = "Validates whether a given email, url, or domain belongs to a research institution.."
+  gem.description = "Checks the suitability of your peers."
 
   gem.authors  = ['Ben Balter']
   gem.email    = 'ben.balter@github.com'
-  gem.homepage = 'http://github.com/benbalter/naughty_or_nice'
+  gem.homepage = 'http://github.com/benbalter/peer_review'
   gem.license  = "MIT"
 
   gem.files = Dir['Rakefile', '{bin,lib,config}/**/*', 'README*', 'LICENSE*']

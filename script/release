@@ -9,8 +9,8 @@ cd $(dirname "$0")/..
 
 # Build a new gem archive.
 
-rm -rf labrador-*.gem
-gem build -q labrador.gemspec
+rm -rf peer_review-*.gem
+gem build -q peer_review.gemspec
 
 # Make sure we're on the master branch.
 
@@ -21,7 +21,7 @@ gem build -q labrador.gemspec
 
 # Figure out what version we're releasing.
 
-tag=v`ls labrador-*.gem | sed 's/^labrador-\(.*\)\.gem$/\1/'`
+tag=v`ls peer_review-*.gem | sed 's/^peer_review-\(.*\)\.gem$/\1/'`
 
 # Make sure we haven't released this version before.
 
@@ -34,5 +34,5 @@ git fetch -t origin
 
 # Tag it and bag it.
 
-gem push labrador-*.gem && git tag "$tag" &&
+gem push peer_review-*.gem && git tag "$tag" &&
   git push origin master && git push origin "$tag"

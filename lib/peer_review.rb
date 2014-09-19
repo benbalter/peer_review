@@ -1,6 +1,6 @@
 require 'naughty_or_nice'
 
-class Labrador < NaughtyOrNice
+class PeerReview < NaughtyOrNice
   class << self
     # returns an instance of our custom public suffix list
     # list behaves like PublicSuffix::List but is limited to our whitelisted domains
@@ -20,10 +20,10 @@ class Labrador < NaughtyOrNice
     return false unless PublicSuffix.valid?(domain)
 
     # check using public suffix's standard logic
-    rule = Labrador.list.find domain
+    rule = PeerReview.list.find domain
     return true if !rule.nil? && rule.allow?(domain)
 
     # also allow for explicit matches to domain list
-    Labrador.list.rules.any? { |rule| rule.value == domain }
+    PeerReview.list.rules.any? { |rule| rule.value == domain }
   end
 end
