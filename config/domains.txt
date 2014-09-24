@@ -34,11 +34,20 @@ jlab.org
 // CSIRO (Australia)
 csiro.au
 
-// Candada's Perimeter Institute for Theoretical Physics
+// Canada's Perimeter Institute for Theoretical Physics
 perimeterinstitute.ca
 
 // CERN
 cern.ch
+
+// EU agencies
+esa.int
+
+// German agencies
+dlr.de
+
+// Portuguese funding agency
+fct.pt
 
 // UK Laboratories
 ebi.ac.uk
