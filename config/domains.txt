@@ -81,3 +81,12 @@ mrc.ac.uk
 nerc.ac.uk
 stfc.ac.uk
 wellcome.ac.uk
+
+// Spanish agencies and research centers
+csic.es
+cnb.csic.es
+cab.inta-csic.es
+inta.es
+ciemat.es
+icmat.es
+imdea.org
