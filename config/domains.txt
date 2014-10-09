@@ -1,61 +1,37 @@
-//US National Labs
-anl.gov
-bnl.gov
-fnal.gov
-inl.gov
-lanl.gov
-lbl.gov
-llnl.gov
-nist.gov
-ornl.gov
-pnnl.gov
-pppl.gov
-sandia.gov
-srnl.doe.gov
-srs.gov
-ameslab.gov
-
-//US Research Agencies
-jpl.nasa.gov
-nifa.usda.gov
-nih.gov
-nrel.gov
-
-//FFRDCs
-mitre.org
-cna.org
-ll.mit.edu
-naic.edu
-ncar.ucar.edu
-noao.edu
-slac.stanford.edu
-jlab.org
-
 // Australia
-csiro.au
-anu.edu.au
-unimelb.edu.au
-monash.edu
-usyd.edu.au
-uq.edu.au
-utas.edu.au
-icrar.org
 adelaide.edu.au
-
-// Canada's Perimeter Institute for Theoretical Physics
-perimeterinstitute.ca
+anu.edu.au
+csiro.au
+icrar.org
+monash.edu
+unimelb.edu.au
+uq.edu.au
+usyd.edu.au
+utas.edu.au
 
 // CERN
 cern.ch
 
+// Canada's Perimeter Institute for Theoretical Physics
+perimeterinstitute.ca
+
 // EU agencies
 esa.int
+
+// FFRDCs
+cna.org
+jlab.org
+ll.mit.edu
+mitre.org
+naic.edu
+ncar.ucar.edu
+noao.edu
+slac.stanford.edu
 
 // German agencies
 dlr.de
 
 // New Zealand
-
 agresearch.co.nz
 esr.cri.nz
 gns.cri.nz
@@ -66,6 +42,15 @@ scionresearch.com
 
 // Portuguese funding agency
 fct.pt
+
+// Spanish agencies and research centers
+cab.inta-csic.es
+ciemat.es
+cnb.csic.es
+csic.es
+icmat.es
+imdea.org
+inta.es
 
 // UK Laboratories
 ebi.ac.uk
@@ -82,11 +67,25 @@ nerc.ac.uk
 stfc.ac.uk
 wellcome.ac.uk
 
-// Spanish agencies and research centers
-csic.es
-cnb.csic.es
-cab.inta-csic.es
-inta.es
-ciemat.es
-icmat.es
-imdea.org
+// US National Labs
+ameslab.gov
+anl.gov
+bnl.gov
+fnal.gov
+inl.gov
+lanl.gov
+lbl.gov
+llnl.gov
+nist.gov
+ornl.gov
+pnnl.gov
+pppl.gov
+sandia.gov
+srnl.doe.gov
+srs.gov
+
+// US Research Agencies
+jpl.nasa.gov
+nifa.usda.gov
+nih.gov
+nrel.gov
