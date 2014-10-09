@@ -46,6 +46,16 @@ esa.int
 // German agencies
 dlr.de
 
+// New Zealand
+
+agresearch.co.nz
+esr.cri.nz
+gns.cri.nz
+landcareresearch.co.nz
+niwa.co.nz
+plantandfood.co.nz
+scionresearch.com
+
 // Portuguese funding agency
 fct.pt
 
