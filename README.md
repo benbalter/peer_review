@@ -7,7 +7,7 @@ Like [Gman](https://github.com/benbalter/gman), Peer Review extends [Naughty Or 
 ## Usage
 
 ```ruby
-Labrador.valid? `foo@nih.gov`       #=> true
-Labrador.valid? `http://sandia.gov` #=> true
-Labrador.valid? `github.com`        #=> false
+PeerReview.valid? `foo@nih.gov`       #=> true
+PeerReview.valid? `http://sandia.gov` #=> true
+PeerReview.valid? `github.com`        #=> false
 ```
