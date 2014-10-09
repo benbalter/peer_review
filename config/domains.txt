@@ -31,8 +31,16 @@ noao.edu
 slac.stanford.edu
 jlab.org
 
-// CSIRO (Australia)
+// Australia
 csiro.au
+anu.edu.au
+unimelb.edu.au
+monash.edu
+usyd.edu.au
+uq.edu.au
+utas.edu.au
+icrar.org
+adelaide.edu.au
 
 // Canada's Perimeter Institute for Theoretical Physics
 perimeterinstitute.ca
