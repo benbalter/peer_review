@@ -25,7 +25,7 @@ domains.each do |line|
 end
 
 # Sort by groups
-domain_hash = domain_hash.sort.to_h
+domain_hash = domain_hash.sort_by { |k,v| k.downcase }.to_h
 
 # Sort within groups
 domain_hash.each do |group, domains|

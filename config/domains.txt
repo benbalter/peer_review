@@ -9,11 +9,11 @@ uq.edu.au
 usyd.edu.au
 utas.edu.au
 
-// CERN
-cern.ch
-
 // Canada's Perimeter Institute for Theoretical Physics
 perimeterinstitute.ca
+
+// CERN
+cern.ch
 
 // EU agencies
 esa.int
@@ -52,11 +52,6 @@ icmat.es
 imdea.org
 inta.es
 
-// UK Laboratories
-ebi.ac.uk
-npl.co.uk
-sanger.ac.uk
-
 // UK funding agencies
 ahrc.ac.uk
 bbsrc.ac.uk
@@ -66,6 +61,11 @@ mrc.ac.uk
 nerc.ac.uk
 stfc.ac.uk
 wellcome.ac.uk
+
+// UK Laboratories
+ebi.ac.uk
+npl.co.uk
+sanger.ac.uk
 
 // US National Labs
 ameslab.gov
