@@ -74,22 +74,39 @@ ebi.ac.uk
 npl.co.uk
 sanger.ac.uk
 
-// US National Labs
+// US Research orgs and national labs
 ameslab.gov
 anl.gov
 bnl.gov
+broadinstitute.org
+es.net
 fnal.gov
+geni.net
 inl.gov
+internet2.net
+jlab.org
 lanl.gov
 lbl.gov
 llnl.gov
+lternet.edu
+mbl.edu
+nersc.gov
 nist.gov
+opencloudconsortium.org
+opensciencegrid.org
 ornl.gov
 pnnl.gov
+pnl.gov
 pppl.gov
 sandia.gov
+si.edu
+slac.stanford.edu
 srnl.doe.gov
 srs.gov
+tgen.org
+ucar.edu
+whoi.edu
+xsede.org
 
 // US Research Agencies
 jpl.nasa.gov
