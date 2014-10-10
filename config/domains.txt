@@ -9,6 +9,13 @@ uq.edu.au
 usyd.edu.au
 utas.edu.au
 
+// Canada
+bccdc.ca
+bccrc.ca
+bcgsc.ca
+sfu.ca
+ubc.ca
+
 // Canada's Perimeter Institute for Theoretical Physics
 perimeterinstitute.ca
 
