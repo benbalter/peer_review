@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = 'peer_review'
-  gem.version = "0.0.2"
+  gem.version = "0.0.3"
 
   gem.summary     = "Validates whether a given email, url, or domain belongs to a research institution.."
   gem.description = "Checks the suitability of your peers."
