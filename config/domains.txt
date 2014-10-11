@@ -74,6 +74,12 @@ ebi.ac.uk
 npl.co.uk
 sanger.ac.uk
 
+// US Research Agencies
+jpl.nasa.gov
+nifa.usda.gov
+nih.gov
+nrel.gov
+
 // US Research orgs and national labs
 ameslab.gov
 anl.gov
@@ -95,8 +101,8 @@ nist.gov
 opencloudconsortium.org
 opensciencegrid.org
 ornl.gov
-pnnl.gov
 pnl.gov
+pnnl.gov
 pppl.gov
 sandia.gov
 si.edu
@@ -107,9 +113,3 @@ tgen.org
 ucar.edu
 whoi.edu
 xsede.org
-
-// US Research Agencies
-jpl.nasa.gov
-nifa.usda.gov
-nih.gov
-nrel.gov
