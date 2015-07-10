@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
 
   gem.files = Dir['Rakefile', '{bin,lib,config}/**/*', 'README*', 'LICENSE*']
 
-  gem.add_dependency( "naughty_or_nice", '~> 0.0.2')
+  gem.add_dependency( "naughty_or_nice", '~> 2.0')
 
   gem.add_development_dependency('pry', '~> 0.9')
   gem.add_development_dependency('shoulda', '~> 3.5')
