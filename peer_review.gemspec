@@ -1,6 +1,8 @@
+require File.expand_path "./lib/peer_review/version", File.dirname(__FILE__)
+
 Gem::Specification.new do |gem|
   gem.name    = 'peer_review'
-  gem.version = "0.0.3"
+  gem.version = PeerReview::VERSION
 
   gem.summary     = "Validates whether a given email, url, or domain belongs to a research institution.."
   gem.description = "Checks the suitability of your peers."
