@@ -4,6 +4,8 @@
 
 Like [Gman](https://github.com/benbalter/gman), Peer Review extends [Naughty Or Nice](https://github.com/benbalter/naughty_or_nice) to validate whether a given email, url, or domain belongs to a research institution.
 
+**This Gem is no longer maintained. If you'd like to adopt it, please [open an issue](https://github.com/benbalter/peer_review/issues/new).**
+
 ## Usage
 
 ```ruby
